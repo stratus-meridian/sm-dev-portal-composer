@@ -11,6 +11,10 @@
     {
       "name": "Mer Grita",
       "email": "mer.grita@stratusmeridian.com"
+    },
+    {
+      "name": "Emylvin Jacob",
+      "email": "emylvin.jacob@stratusmeridian.com"
     }
   ],
   "repositories": [
@@ -30,20 +34,20 @@
   "require": {
     "composer/installers": "^1.2",
     "drush-ops/behat-drush-endpoint": "^9.3",
-    "drupal/core-composer-scaffold": "^8.8",
-    "drupal/core-project-message": "^8.8",
-    "drupal/core-recommended": "^8.8",
+    "drupal/core-composer-scaffold": "^9.3.0",
+    "drupal/core-project-message": "^9.3.0",
+    "drupal/core-recommended": "^9.3.0",
     "oomphinc/composer-installers-extender": "dev-master",
-    "stratus-meridian/sm_dev_portal": "dev-8.x-2.x",
+    "stratus-meridian/sm_dev_portal": "dev-9.x-5.x",
     "vlucas/phpdotenv": "^2.4",
     "webflo/drupal-finder": "^1.0.0",
     "webmozart/path-util": "^2.3",
     "zaporylie/composer-drupal-optimizations": "^1.0",
-    "php": "^7.2"
+    "php": "~8.1"
   },
   "require-dev": {
-    "drupal/core-dev": "^8.8",
-    "drush/drush": "^9.7"
+    "drupal/core-dev": "^9.3.0",
+    "drush/drush": "^10.6"
   },
   "conflict": {
     "drupal/drupal": "*"

@@ -11,7 +11,7 @@ for your setup.
 After that you can create the project:
 
 ```
-composer create-project stratus-meridian/drupal8-composer-project:8.x-dev YOUR_DIRECTORY_NAME --no-interaction
+composer create-project stratus-meridian/drupal8-composer-project:9.x-dev YOUR_DIRECTORY_NAME --no-interaction
 ```
 ## Always use composer to download modules
 With `composer require ...` you can download new dependencies / modules that you additionally need to your
