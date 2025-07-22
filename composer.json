@@ -54,7 +54,7 @@
         "drupal/core-composer-scaffold": "^10.3.0",
         "drupal/core-project-message": "^10.3.0",
         "drupal/core-recommended": "^10.3.0",
-        "stratus-meridian/sm_dev_portal": "dev-feature/profile-composer.json",
+        "stratus-meridian/sm_dev_portal": "dev-10.x-5.x",
         "furf/jquery-ui-touch-punch": "dev-master",
         "guzzlehttp/guzzle": "^7.8",
         "mnsami/composer-custom-directory-installer": "^2.0",
